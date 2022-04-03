@@ -474,6 +474,6 @@ contract MindGames {
 
     // Until here
   }
-
+  
 
 }
